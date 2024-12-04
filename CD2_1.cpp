@@ -1,3 +1,4 @@
+//program to identify whether a given Line is Comment or not 
 #include <stdio.h>
 #include <string.h>
 
