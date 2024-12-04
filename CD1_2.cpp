@@ -1,3 +1,5 @@
+//Program to identify whether given String is 
+Keyword or not. 
 #include <stdio.h>
 #include <string.h>
 
